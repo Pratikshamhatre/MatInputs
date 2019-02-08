@@ -1,0 +1,81 @@
+body
+{
+  background-color:floralwhite;
+}
+
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+    margin: auto; 
+    
+    
+    
+
+  }
+  hr {
+     background-color: crimson;    
+  }
+
+  .example-full-width {
+    width: 100%;
+    color: indigo;
+    
+  }
+  h1{
+      color:orange;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: 50px;
+  }
+
+  .mat-radio-button ~ .mat-radio-button {
+    margin-left: 16px;
+    
+  
+    
+  }
+
+  hr{
+    color: firebrick;
+  }
+
+  .mat-radio-button
+  {
+    padding-right: 10px;
+    color:orange;
+  }
+
+.radio,.check{
+  float: left;
+  
+  padding: 13px;
+
+}
+
+.check{
+  margin-bottom: 10px;
+}
+
+.box
+{
+  padding-right: 10px;
+  color:darkgoldenrod;
+}
+
+.name
+{
+  color:firebrick;
+  padding-right: 20px;
+  font-size: 20px;
+}
+
+
+.example-button-row button,
+.example-button-row a {
+  margin-right: 10px;
+  size: 15px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
